@@ -1,0 +1,57 @@
+// <section data-wpr-lazyrender="1" class="abt-gallery">
+// <div  class="swiper-container-wrapper">
+// <div class="swiper-container gallery-top">
+// <div class="swiper-wrapper">
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/company-pic.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Office Building</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/reception.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Reception</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/employee.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Working Area</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/womens-day-2024.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Women&#8217;s Day 2024</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/holi-celebration-2024.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Holi Festival 2024</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/ganesh-chaturthi-2023.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Ganesh Chaturthi 2023</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/ganesh-visarjan-2023.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Ganesh Visarjan 2023</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/panache-2019.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Panache 2019</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/Christmas-Day-2023.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Christmas Day 2023</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/cricket-match-2024.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">NPL 2024</div>
+// </div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/conference-room.webp" class="swiper-slide rocket-lazyload" style="">
+// <div class="title">Conference Room</div>
+// </div></div>
+// <div class="swiper-button-next"></div>
+// <div class="swiper-button-prev"></div>
+// </div>
+// <div class="swiper-container gallery-thumbs">
+// <div class="swiper-wrapper">
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/company-pic.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/reception.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/employee.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/womens-day-2024.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/holi-celebration-2024.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/ganesh-chaturthi-2023.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/ganesh-visarjan-2023.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/panache-2019.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/Christmas-Day-2023.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/cricket-match-2024.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// <div data-bg="https://theninehertz.com/wp-content/themes/ninehertz/assets2024/images/conference-room.webp" class="swiper-slide rocket-lazyload" style=""></div>
+// </div>
+// </div>
+// </div>
+// </section>
