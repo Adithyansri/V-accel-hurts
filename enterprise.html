@@ -15287,58 +15287,100 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </section>
         <section class="marketing-services esd-services" id="ourServices">
             <div class="container">
-                <div class="title">
-                    <h2 class="text-center wow fadeInUp"><span class="ez-toc-section" id="Enterprise_Software_Development_Service"></span>Our Custom Software Solutions<span class="ez-toc-section-end"></span></h2>
-                </div>
-                <p class="text-center mt-20 mb-50 wow fadeInUp"></p>
+              <div class="title" style="text-align: center; margin-bottom: 20px;">
+                <h2>Our Custom Software Solutions</h2>
+              </div>
             </div>
             <div class="container">
-                <div class="row g-md-5">
-                    <div class="col-sm-4 col-md-4">
-                        <div class="service-box">
-                            <div class="box-body">
-                                <h3>Customer Relationship Management (CRM)</h3>
-                                <p>Real-time customer insights, automated workflows, AI-driven analytics, mobile access.
-                                </p>
-                                <br><br>
-                                 Boosts satisfaction, cuts sales cycles by 30%, integrates with your tools.
-                                    A 2025 retailer lifted repeat sales 25% with our CRM—your customers deserve that edge.
-                                  
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4">
-                        <div class="service-box">
-                            <div class="box-body">
-                                <h3>Human Resource Management System (HRMS)
-                                </h3>
-                                <p>Empower your team with a custom HRMS—hiring, payroll, and performance, all simplified and tailored.
-                                   Centralized data, automated payroll, performance tracking, self-service portals.
-                                    <br><br> Saves 40% on HR tasks, ensures 2025 compliance, improves retention.
-                                     A 2025 tech firm halved onboarding time with our HRMS your people, your power.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4">
-                        <div class="service-box">
-                            <div class="box-body">
-                                <h3>Content Management System (CMS)
-                                </h3>
-                                <p>Amplify your voice with a custom CMS create, manage, and publish content your way.
-
-                                   <br><br> Real-time dashboards, inventory tools, financial tracking, cloud scalability.
-                                   Speeds updates 45%, drives traffic, fits your brand.
- A 2025 media startup tripled visits with our CMS your content, unleashed.
-
-                                </p>
-                                
-                            </div>
-                        </div>
-                    </div>
+              <div class="row" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
                 
+                <!-- Card 1 -->
+                <div class="col-sm-4 col-md-4" style="flex: 1; min-width: 300px;">
+                  <div class="service-box animate-on-scroll" style="background: #fff; border-radius: 12px; padding: 20px; transition: all 0.5s ease; transform: translateY(30px); opacity: 0;">
+                    <div class="box-body">
+                      <h3 style="font-size: 20px; font-weight: bold;">Customer Relationship Management (CRM)</h3>
+                      <p style="color: #666;">Real-time customer insights, automated workflows, AI-driven analytics, mobile access.</p>
+                      <p style="color: #333;">Boosts satisfaction, cuts sales cycles by 30%, integrates with your tools. A 2025 retailer lifted repeat sales 25% with our CRM—your customers deserve that edge.</p>
+                    </div>
+                  </div>
                 </div>
+          
+                <!-- Card 2 -->
+                <div class="col-sm-4 col-md-4" style="flex: 1; min-width: 300px;">
+                  <div class="service-box animate-on-scroll" style="background: #fff; border-radius: 12px; padding: 20px; transition: all 0.5s ease; transform: translateY(30px); opacity: 0;">
+                    <div class="box-body">
+                      <h3 style="font-size: 20px; font-weight: bold;">Human Resource Management System (HRMS)</h3>
+                      <p style="color: #666;">Empower your team with a custom HRMS—hiring, payroll, and performance, all simplified and tailored.</p>
+                      <p style="color: #333;">Saves 40% on HR tasks, ensures 2025 compliance, improves retention. A 2025 tech firm halved onboarding time with our HRMS—your people, your power.</p>
+                    </div>
+                  </div>
+                </div>
+          
+                <!-- Card 3 -->
+                <div class="col-sm-4 col-md-4" style="flex: 1; min-width: 300px;">
+                  <div class="service-box animate-on-scroll" style="background: #fff; border-radius: 12px; padding: 20px; transition: all 0.5s ease; transform: translateY(30px); opacity: 0;">
+                    <div class="box-body">
+                      <h3 style="font-size: 20px; font-weight: bold;">Content Management System (CMS)</h3>
+                      <p style="color: #666;">Amplify your voice with a custom CMS—create, manage, and publish content your way.</p>
+                      <p style="color: #333;">Real-time dashboards, inventory tools, financial tracking, cloud scalability. A 2025 media startup tripled visits with our CMS—your content, unleashed.</p>
+                    </div>
+                  </div>
+                </div>
+          
+              </div>
             </div>
-        </section>
+          </section>
+          
+          <!-- Styles -->
+          <style>
+            .animate-on-scroll {
+              box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+          
+            .animate-on-scroll.show {
+              opacity: 1 !important;
+              transform: translateY(0px) scale(1) !important;
+            }
+          
+            .animate-on-scroll:hover {
+              background-color: #f0f8ff;
+              transform: translateY(-10px) scale(1.03);
+              box-shadow: 0 10px 20px rgba(0, 123, 255, 0.2);
+            }
+          
+            .animate-on-scroll:hover h3 {
+              color: #007bff;
+            }
+          
+            .animate-on-scroll:hover p {
+              color: #111;
+            }
+          </style>
+          
+          <!-- Script -->
+          <script>
+            document.addEventListener("DOMContentLoaded", function () {
+              const elements = document.querySelectorAll('.animate-on-scroll');
+          
+              const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                  if (entry.isIntersecting) {
+                    entry.target.classList.add('show');
+                  }
+                });
+              }, {
+                threshold: 0.1
+              });
+          
+              elements.forEach(el => {
+                observer.observe(el);
+              });
+            });
+          </script>
+          
+          
+        
+        
         <section class="esd-why-choose" id="whyChooseUs">
             <div class="container">
                 <div class="row g-md-5 d-flex align-items-center justify-content-center">
