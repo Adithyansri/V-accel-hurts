@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="v-accel-logo" fill="none" fill-rule="evenodd">
+        <!-- V shape -->
+        <path d="M100,50 L150,200 L200,50" stroke="#1B3C4A" stroke-width="30" fill="none"/>
+        <!-- Arrow -->
+        <path d="M150,50 L150,200 L200,150" stroke="#C17F59" stroke-width="30" fill="none"/>
+        <!-- Small triangle -->
+        <path d="M140,160 L160,160 L150,180 Z" fill="#943A2C"/>
+    </g>
+    <!-- Text -->
+    <text x="150" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#1B3C4A">V-ACCEL</text>
+    <text x="150" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1B3C4A">AI DYNAMICS PRIVATE LIMITED</text>
+</svg> 
